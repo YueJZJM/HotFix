@@ -34,4 +34,9 @@ public class MainActivity extends AppCompatActivity {
     private String getPatchName() {
         return mPatchDir.concat("imooc").concat(FILE_END);
     }
+
+//    @Override
+//    protected void onResume() {
+//        super.onResume();
+//    }
 }
